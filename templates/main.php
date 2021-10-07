@@ -25,8 +25,8 @@ require(__DIR__ . "/../config.php");
                 <h1 class="display-3"><?php echo $config['website-name']; ?></h1>
                 <p class="lead"><?php echo $lang["slogan"]; ?></p>
                 <div class="btn-group" role="group">
-                    <a id="twitter" class="btn btn-info" href="#url">Twitter</a>
-                    <a id="youtube" class="btn btn-danger" href="https://youtube.com">YouTube</a>
+                    <a id="twitter" class="btn btn-info" href="#">Twitter</a>
+                    <a id="youtube" class="btn btn-danger" href="#">YouTube</a>
                     <a id="facebook" class="btn btn-primary" href="#">Facebook</a>
                 </div>
                 <br>
